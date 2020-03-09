@@ -1,0 +1,1 @@
+_CLOUD = {disabled_commands={"auth"}, auth_token=true, auth_usgn=57648}
